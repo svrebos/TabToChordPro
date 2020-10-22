@@ -1,5 +1,3 @@
-const fs = require('fs')
-
 module.exports = {
     tabToChordPro: (tab, artist, title, capo, key, callback) => {
         const CHORD_LINE_REGEX = /^\s*(((\()?([A-G])(#|b)?([^/\s]*)(\/([A-G])(#|b)?)?)(\s|$)+)+(\s|$)+/
