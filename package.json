@@ -1,8 +1,9 @@
 {
   "name": "tabtochordpro",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Convert regular tab files to ChordPro files",
   "author": "Steven Vrebos",
   "license": "MIT",
+  "main": "./TabToChordPro.js",
   "dependencies": {}
 }
