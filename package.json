@@ -1,15 +1,8 @@
 {
   "name": "tabtochordpro",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@types/chordsheetjs": "^2.8.0",
-    "chordsheetjs": "^3.0.0"
-  }
+  "description": "Convert regular tab files to ChordPro files",
+  "author": "Steven Vrebos",
+  "license": "MIT",
+  "dependencies": {}
 }
