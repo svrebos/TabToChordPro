@@ -1,10 +1,6 @@
 # TabToChordPro
 JavaScript module to convert regular tab files to the ChordPro format.
 ## Installation and use
-1. Add the `TabToChordPro` package to your project with npm:
-    ```bash
-    npm install tabtochordpro
-    ```
 1. Use require in the file where you would like to make use for it:
     ```javascript
     const tabToChordPro = require('TabToChordpro')
